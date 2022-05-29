@@ -11,3 +11,15 @@ The simple mathematical formula (below) calculates the NDVI and, in turn, transf
 
 ![NDVI](https://user-images.githubusercontent.com/62169942/170890178-9de7ef3e-cb6a-46d7-bf8d-9d1e1591b191.png)
 
+In this project loaction is part of area Goygol Azerbaijan and use Sentinel images.
+
+Display each month's image.
+
+![Images](https://user-images.githubusercontent.com/62169942/170891623-de6e4caf-b294-45d6-9a74-618e61f57296.png)
+
+Display each month's NDVI.
+
+![NDVI](https://user-images.githubusercontent.com/62169942/170891653-548108c7-ac10-4aee-8760-35fda69ba0b7.png)
+
+
+
