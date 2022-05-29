@@ -11,6 +11,14 @@ The simple mathematical formula (below) calculates the NDVI and, in turn, transf
 
 ![NDVI](https://user-images.githubusercontent.com/62169942/170890178-9de7ef3e-cb6a-46d7-bf8d-9d1e1591b191.png)
 
+
+Healthy vegetation (chlorophyll) reflects more near-infrared (NIR) and green light compared to other wavelengths. But it absorbs more red and blue light.
+
+Sentinel-2 have 13 bands and the necessary bands are NIR and red.
+
+![NDVI_trees](https://user-images.githubusercontent.com/62169942/170891691-e066a1d8-09ca-4f72-9c2f-6b39a313cf0f.png)
+
+
 In this project loaction is part of area Goygol Azerbaijan and use Sentinel images.
 
 Display each month's image.
