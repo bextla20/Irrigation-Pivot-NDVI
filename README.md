@@ -19,6 +19,11 @@ Sentinel-2 have 13 bands and the necessary bands are NIR and red.
 ![NDVI_trees](https://user-images.githubusercontent.com/62169942/170891691-e066a1d8-09ca-4f72-9c2f-6b39a313cf0f.png)
 
 
+NDVI use in differant area and one of most important area is agricultural. Pivot irrigation rotates on a point creating a circular crop pattern. An important application, among others, in the analysiswith NDVI is related to the estimation of crop coefficient.
+
+In true color, here’s how it looks for red, green, and blue bands. We say true color because it is the same as how our eyes see.
+
+
 In this project loaction is part of area Goygol Azerbaijan and use Sentinel images.
 
 Display each month's image.
@@ -29,5 +34,6 @@ Display each month's NDVI.
 
 ![NDVI](https://user-images.githubusercontent.com/62169942/170891653-548108c7-ac10-4aee-8760-35fda69ba0b7.png)
 
+There are several sectors using NDVI. in agriculture, farmers use NDVI for predict yield, precision farming and calculate biomass.
 
 
